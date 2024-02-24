@@ -1,6 +1,5 @@
 use std::collections::HashMap;
 use std::net::Ipv4Addr;
-use std::ops::BitAnd;
 
 
 /* HashMap
